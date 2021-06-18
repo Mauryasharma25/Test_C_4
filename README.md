@@ -38,4 +38,18 @@ Testing
 **Photo**
 ![Winfred_Photo](https://pbs.twimg.com/media/EvdtF5ZWQAIHwJI.jpg)
 
+## Maurya Sharma
+**Institution:** Delhi University
+
+**Hobbies**
+1. Reading
+2. Dancing
+3. Crafting
+4. Traveling
+5. Sleeping
+
+**Photo**
+![1](https://user-images.githubusercontent.com/85487409/122525995-7040b680-d037-11eb-9555-418f911a2a7d.jpg)
+
+
 
